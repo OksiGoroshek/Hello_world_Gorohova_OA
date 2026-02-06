@@ -1,6 +1,5 @@
-name = 'Студент'
-a = 10
-b = 5
-result = a + b
+name = 'Друг'
+a, b = 10, 5
+result = a//b
 print(f'Привет, {name}!')
-print(f'Результат сложения {a} + {b} равен {result}')
+print(f'Результат деления нацело {a}//{b} равен {result}')
