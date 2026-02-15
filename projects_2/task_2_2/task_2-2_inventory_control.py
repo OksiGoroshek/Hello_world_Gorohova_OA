@@ -1,0 +1,5 @@
+inventory = open('inventory.txt', 'w', encoding='utf-8')
+new_reactiv = input('')
+count_reactiv = int(input())
+print(f'Реактив {new_reactiv} поступил на склад в количестве {count_reactiv} шт.', file=inventory)
+inventory.close()
