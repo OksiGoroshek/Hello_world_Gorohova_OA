@@ -1,0 +1,30 @@
+ls -lah / >> task_3-4_1_2.txt
+
+итого 68K
+drwxr-xr-x  19 root root 4,0K фев 20 11:22 .
+drwxr-xr-x  19 root root 4,0K фев 20 11:22 ..
+lrwxrwxrwx   1 root root    7 фев 20 11:05 bin -> usr/bin
+drwxr-xr-x   3 root root 4,0K фев 27 13:47 boot
+drwx------   2 root root 4,0K фев 20 11:22 .cache
+drwxr-xr-x  18 root root 3,3K мар  5 20:09 dev
+drwxr-xr-x 118 root root 4,0K мар  5 20:09 etc
+drwxr-xr-x   3 root root 4,0K фев 20 11:25 home
+lrwxrwxrwx   1 root root   35 фев 20 11:11 initrd.img -> boot/initrd.img-6.12.73+deb13-amd64
+lrwxrwxrwx   1 root root   35 фев 20 11:06 initrd.img.old -> boot/initrd.img-6.12.63+deb13-amd64
+lrwxrwxrwx   1 root root    7 фев 20 11:05 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 фев 20 11:05 lib64 -> usr/lib64
+drwx------   2 root root  16K фев 20 11:05 lost+found
+drwxr-xr-x   3 root root 4,0K фев 20 11:05 media
+drwxr-xr-x   2 root root 4,0K фев 20 11:05 mnt
+drwxr-xr-x   3 root root 4,0K фев 27 13:45 opt
+dr-xr-xr-x 234 root root    0 мар  5 20:09 proc
+drwx------   6 root root 4,0K фев 27 13:45 root
+drwxr-xr-x  26 root root  700 мар  5 20:09 run
+lrwxrwxrwx   1 root root    8 фев 20 11:05 sbin -> usr/sbin
+drwxr-xr-x   2 root root 4,0K фев 20 11:05 srv
+dr-xr-xr-x  14 root root    0 мар  5 22:39 sys
+drwxrwxrwt  12 root root  300 мар  5 21:46 tmp
+drwxr-xr-x  12 root root 4,0K фев 20 11:05 usr
+drwxr-xr-x  11 root root 4,0K фев 20 11:28 var
+lrwxrwxrwx   1 root root   32 фев 20 11:11 vmlinuz -> boot/vmlinuz-6.12.73+deb13-amd64
+lrwxrwxrwx   1 root root   32 фев 20 11:06 vmlinuz.old -> boot/vmlinuz-6.12.63+deb13-amd64
