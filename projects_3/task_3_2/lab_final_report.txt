@@ -1,0 +1,645 @@
+DESKTOP-1TT9U5V
+
+Name                           Value                                                                                   
+----                           -----                                                                                   
+PSVersion                      5.1.18362.145                                                                           
+PSEdition                      Desktop                                                                                 
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}                                                                 
+BuildVersion                   10.0.18362.145                                                                          
+CLRVersion                     4.0.30319.42000                                                                         
+WSManStackVersion              3.0                                                                                     
+PSRemotingProtocolVersion      2.3                                                                                     
+SerializationVersion           1.1.0.1                                                                                 
+
+ 
+ 
+ ;O  8A?>;L7>20=8O  ?@>3@0<<K  s f c   =5>1E>48<K  ?@020  04<8=8AB@0B>@0  8  
+ 
+ 
+ 2K?>;=5=85  A50=A0  :>=A>;8. 
+ 
+ 
+ 
+
+Id      : 5236
+Handles : 747
+CPU     : 1,359375
+SI      : 73
+Name    : ShellExperienceHost
+
+
+Id      : 12832
+Handles : 571
+CPU     : 2,140625
+SI      : 73
+Name    : StartMenuExperienceHost
+
+
+Id      : 3700
+Handles : 392
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 948
+Handles : 2239
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1108
+Handles : 537
+CPU     : 1,3125
+SI      : 73
+Name    : sihost
+
+
+Id      : 12472
+Handles : 345
+CPU     : 0,6875
+SI      : 73
+Name    : svchost
+
+
+Id      : 7180
+Handles : 322
+CPU     : 0,546875
+SI      : 73
+Name    : svchost
+
+
+Id      : 3952
+Handles : 445
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1520
+Handles : 411
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 10268
+Handles : 457
+CPU     : 0,296875
+SI      : 73
+Name    : svchost
+
+
+Id      : 7964
+Handles : 335
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 6192
+Handles : 386
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 10040
+Handles : 383
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 14264
+Handles : 312
+CPU     : 0,40625
+SI      : 73
+Name    : svchost
+
+
+Id      : 2936
+Handles : 427
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 568
+Handles : 1157
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 6028
+Handles : 414
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3240
+Handles : 507
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3120
+Handles : 748
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 8896
+Handles : 208
+CPU     : 1,625
+SI      : 73
+Name    : conhost
+
+
+Id      : 2728
+Handles : 412
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2976
+Handles : 231
+CPU     : 0,390625
+SI      : 73
+Name    : dllhost
+
+
+Id      : 8172
+Handles : 335
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3692
+Handles : 307
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1428
+Handles : 422
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3264
+Handles : 310
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 5488
+Handles : 288
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3316
+Handles : 276
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1368
+Handles : 212
+CPU     : 0,125
+SI      : 73
+Name    : dllhost
+
+
+Id      : 10812
+Handles : 32
+CPU     : 
+SI      : 73
+Name    : fontdrvhost
+
+
+Id      : 2192
+Handles : 390
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3308
+Handles : 481
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 9284
+Handles : 220
+CPU     : 0,25
+SI      : 73
+Name    : taskhostw
+
+
+Id      : 1484
+Handles : 238
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 7564
+Handles : 237
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1244
+Handles : 285
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 6620
+Handles : 300
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 9004
+Handles : 374
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 4460
+Handles : 401
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1892
+Handles : 252
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1300
+Handles : 257
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1252
+Handles : 375
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1328
+Handles : 156
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2656
+Handles : 1646
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 7024
+Handles : 166
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2320
+Handles : 220
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2832
+Handles : 375
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 12240
+Handles : 214
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 840
+Handles : 256
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1756
+Handles : 133
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 10328
+Handles : 258
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3928
+Handles : 205
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2000
+Handles : 184
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2500
+Handles : 262
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 10256
+Handles : 128
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 13248
+Handles : 172
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 4180
+Handles : 205
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1672
+Handles : 177
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1612
+Handles : 322
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2432
+Handles : 212
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2992
+Handles : 220
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2388
+Handles : 197
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1868
+Handles : 206
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1960
+Handles : 230
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3752
+Handles : 264
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2948
+Handles : 290
+CPU     : 
+SI      : 0
+Name    : WUDFHost
+
+
+Id      : 3588
+Handles : 189
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 5020
+Handles : 167
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 6104
+Handles : 600
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2396
+Handles : 177
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1236
+Handles : 199
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2748
+Handles : 157
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 7472
+Handles : 107
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2436
+Handles : 127
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 4956
+Handles : 162
+CPU     : 
+SI      : 0
+Name    : conhost
+
+
+Id      : 8444
+Handles : 177
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3892
+Handles : 211
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 11400
+Handles : 118
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1660
+Handles : 134
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 1564
+Handles : 160
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 8928
+Handles : 223
+CPU     : 0,09375
+SI      : 73
+Name    : taskhostw
+
+
+Id      : 2328
+Handles : 195
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 4060
+Handles : 135
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 3940
+Handles : 128
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 2824
+Handles : 139
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 10996
+Handles : 126
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 920
+Handles : 86
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 4012
+Handles : 109
+CPU     : 
+SI      : 0
+Name    : svchost
+
+
+Id      : 992
+Handles : 32
+CPU     : 
+SI      : 0
+Name    : fontdrvhost
+
