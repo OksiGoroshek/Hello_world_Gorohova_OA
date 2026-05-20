@@ -1,0 +1,4 @@
+gender
+Female    53.12
+Male      42.54
+Name: tusk_length_cm, dtype: float64
